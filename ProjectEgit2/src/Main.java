@@ -1,6 +1,12 @@
 import java.util.*;
 
 public class Main {
+	public static int producto(int a, int b) { 
+		 int c; 
+		 c = a * b; 
+		 return c; 
+		 } 
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
